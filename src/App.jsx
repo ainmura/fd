@@ -14,13 +14,13 @@ function App() {
         <Route path='/home' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/shop' element={<Shop/>} />
-        <Route path='/projects'element={<Proj} />
+        <Route path='/projects'element={<Project/>} />
         <Route path='/news'/>
         <Route path='/error'/>
         <Route path='/style'/>
         <Route path='/password'/>
         <Route path='/licences'/>
-        <Route path='/changelog' element={<Chan}/>
+        <Route path='/changelog' element={<Change/>}/>
       </Routes>
     </Layout>
     
