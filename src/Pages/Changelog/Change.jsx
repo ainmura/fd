@@ -2,7 +2,7 @@ import React from 'react'
 
 const Change = () => {
   return (
-    <div>Changeg</div>
+    <div>Changegjh</div>
   )
 }
 
